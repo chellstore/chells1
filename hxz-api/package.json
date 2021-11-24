@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "hxz-api@1.0.0",
+      "/storage/emulated/0/Download/self-xcode/self-xcode"
+    ]
+  ],
+  "_from": "hxz-api@1.0.0",
+  "_id": "hxz-api@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-SRLeYW0L8D3+Z76FCrQSNbfm30u/Z5dYNEYp/19/QFaIQiobg7VieNIdI5c+BiPWl+y9KanLHcUrqhXtzKagpQ==",
+  "_location": "/hxz-api",
+  "_phantomChildren": {
+    "cheerio-select": "1.5.0",
+    "domelementtype": "2.1.0",
+    "entities": "2.1.0",
+    "parse5": "6.0.1",
+    "parse5-htmlparser2-tree-adapter": "6.0.1",
+    "side-channel": "1.0.4",
+    "tslib": "2.3.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "hxz-api@1.0.0",
+    "name": "hxz-api",
+    "escapedName": "hxz-api",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hxz-api/-/hxz-api-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/storage/emulated/0/Download/self-xcode/self-xcode",
+  "author": {
+    "name": "Hexagon"
+  },
+  "bugs": {
+    "url": "https://github.com/Hexagonz/Hexa-Api/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "description": "hexa-api",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/Hexagonz/Hexa-Api#readme",
+  "keywords": [
+    "YNTKTS"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "hxz-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexagonz/Hexa-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
